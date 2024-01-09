@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Erastus munyao<br>⚡  I'm a Flutter Dev<br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Flutter & Firebase<br>
+🙋‍♂️ Hello there , I’m Erastus munyao<br>⚡  I'm a Flutter Dev<br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Flutter & Firebase<br>
 
 
 ## 🌐 Socials:
