@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Hello there , I’m Erastus munyao<br>⚡  Flutter Developer at Nathan Digital <br>👯 I’m looking to collaborate on github<br> 🌱 I’m  Looking forward to being a node ninja<br>💬 Ask me about Flutter & Firebase<br>
+🙋‍♂️ Hello there , I’m Erastus munyao<br>⚡  Flutter Developer at Nathan Digital <br>👯 I’m looking to collaborate on github<br> 🌱 I’m  Looking forward to becoming a node ninja<br>💬 Ask me about Flutter & Firebase<br>
 
 
 ## 🌐 Socials:
